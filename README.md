@@ -92,3 +92,9 @@ Or open `InterfacesRed.sln` in Visual Studio 2022 and run with **F5**.
 - `ListadoInterfaces.cs` — gets the interfaces (`NetworkInterface.GetAllNetworkInterfaces`) and walks
   their properties (status, MAC, IPs).
 - `images/` — console output screenshot.
+
+---
+
+## Galería / Gallery
+
+![interfaces-red 1](images/console-01.png)
